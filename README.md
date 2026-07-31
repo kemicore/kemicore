@@ -7,4 +7,4 @@ I do code some python and bash scripts to make my life a bit more useful or some
 
 
 # Contact
-<a href="https://t.me/kemicore" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+<a href="https://t.me/terbiyesizoglan" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
